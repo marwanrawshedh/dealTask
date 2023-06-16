@@ -18,4 +18,4 @@
 - `you should start mysql database`
 - `you should create database instance like on ur cli like "CREATE DATABASE mydb;"`
 - `npm run dev`
-- `your admin email and ur password will be the on u write on .env file`
+- `your admin email and ur password will be the on you write  on .env file`
